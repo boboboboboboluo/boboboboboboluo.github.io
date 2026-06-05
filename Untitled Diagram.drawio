@@ -1,0 +1,491 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="yBOqtqays9f9gQaaCiud">
+    <mxGraphModel dx="1262" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HwPXas9lrprOphOuYEvM-10" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="input：&lt;div&gt;合同文本（txt）&lt;br&gt;&lt;div&gt;合同类型（select）&lt;/div&gt;&lt;div&gt;卖方营业地（select）&lt;/div&gt;&lt;div&gt;买方营业地（select）&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="429" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-22" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-21" value="是">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-27" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-26" value="否">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;dashed=1;" value="是否有一方营业地在中国，另一方在其他国家和地区" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="incoterms各版本知识库" vertex="1">
+          <mxGeometry height="80" width="120" x="414" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="cisg判例知识库" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SCHLECHTRIEM &amp;amp; SCHWENZERCOMMENTARY ON THE UN CONVENTION ON THE INTERNATIONAL SALE OF GOODS (CISG)知识库" vertex="1">
+          <mxGeometry height="80" width="120" x="580" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-32" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-48" connectable="0" parent="HwPXas9lrprOphOuYEvM-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="买卖" vertex="1">
+          <mxGeometry relative="1" x="0.125" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-41" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-42" connectable="0" parent="HwPXas9lrprOphOuYEvM-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="运输" vertex="1">
+          <mxGeometry relative="1" x="-0.0031" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-45" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-46" connectable="0" parent="HwPXas9lrprOphOuYEvM-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="其他" vertex="1">
+          <mxGeometry relative="1" x="0.0344" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="是买卖合同还是运输合同？" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-26" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;dashed=1;fillColor=none;" value="end" vertex="1">
+          <mxGeometry height="80" width="80" x="229" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="中国香港，中国台湾，中国澳门怎么算？" vertex="1">
+          <mxGeometry height="30" width="60" x="599" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-50" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="文本提取器" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="1005" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-40" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="运输合同流程" vertex="1">
+          <mxGeometry height="60" width="120" x="239" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-44" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="其他合同流程" vertex="1">
+          <mxGeometry height="60" width="120" x="639" y="865" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-52" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-49" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;dashed=1;" value="文本清洗&lt;div&gt;把文本切分成&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;clause_list&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="1145" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-60" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=none;dashed=1;" value="合同要素领域归入" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="1285" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="文本清洗：&lt;div&gt;1、去除无审查价值的噪声&lt;/div&gt;&lt;div&gt;2、修复ocr导致的错误&lt;/div&gt;&lt;div&gt;3、识别层级结构&lt;/div&gt;&lt;div&gt;4、表格处理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="210" y="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;clause_id&quot;: &quot;6.2&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;title&quot;: &quot;Delivery and Risk&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;text&quot;: &quot;...&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;domains&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;标的物交付&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;风险转移&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;Incoterms&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;运输安排&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; ]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="252" y="1165" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-62" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-63" connectable="0" parent="HwPXas9lrprOphOuYEvM-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="中文" vertex="1">
+          <mxGeometry relative="1" x="-0.2103" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-65" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-64" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-66" connectable="0" parent="HwPXas9lrprOphOuYEvM-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="英文" vertex="1">
+          <mxGeometry relative="1" x="0.1991" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-175" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-174" value="双语但未约定作准语言">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-59" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="作准语言判断&lt;div&gt;非作准语言翻译风险提示&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="1425" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-164" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-163" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-165" connectable="0" parent="HwPXas9lrprOphOuYEvM-164" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不适用或约定排除cisg" vertex="1">
+          <mxGeometry relative="1" x="-0.1806" y="8" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-167" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-166" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-168" connectable="0" parent="HwPXas9lrprOphOuYEvM-167" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="适用cisg、cisg不覆盖部分适用中国法律" vertex="1">
+          <mxGeometry relative="1" x="-0.0278" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-170" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-169" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-171" connectable="0" parent="HwPXas9lrprOphOuYEvM-170" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不能直接适用cisg&lt;div&gt;并未约定适用法律&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0139" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-61" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="cisg适用判断" vertex="1">
+          <mxGeometry height="60" width="120" x="439" y="1565" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-64" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="英文审查流程（和中文相同）" vertex="1">
+          <mxGeometry height="60" width="120" x="239" y="1425" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-71" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-73" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="合同基本信息" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;合同名称&lt;/div&gt;&lt;div&gt;合同编号&lt;/div&gt;&lt;div&gt;签署日期&lt;/div&gt;&lt;div&gt;生效日期&lt;/div&gt;&lt;div&gt;合同语言&lt;/div&gt;&lt;div&gt;是否中英双语&lt;/div&gt;&lt;div&gt;语言优先级&lt;/div&gt;&lt;div&gt;合同版本&lt;/div&gt;&lt;div&gt;是否存在附件&lt;/div&gt;&lt;div&gt;附件名称&lt;/div&gt;&lt;div&gt;主合同与附件优先级&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="160" x="1080" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-75" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-74" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-77" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-72" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="合同主体" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-74" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;买方名称&lt;/div&gt;&lt;div&gt;卖方名称&lt;/div&gt;&lt;div&gt;买方营业地&lt;/div&gt;&lt;div&gt;卖方营业地&lt;/div&gt;&lt;div&gt;注册地址&lt;/div&gt;&lt;div&gt;通讯地址&lt;/div&gt;&lt;div&gt;签署代表&lt;/div&gt;&lt;div&gt;签署权限&lt;/div&gt;&lt;div&gt;是否存在母公司/子公司/关联公司&lt;/div&gt;&lt;div&gt;收款主体&lt;/div&gt;&lt;div&gt;付款主体&lt;/div&gt;&lt;div&gt;发货主体&lt;/div&gt;&lt;div&gt;收货主体&lt;/div&gt;&lt;div&gt;开票主体&lt;/div&gt;&lt;div&gt;中方是买方还是卖方&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="260" x="1071" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-79" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-78" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="695.0666666666666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-81" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-80" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-76" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="货物描述、规格、数量与包装" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-78" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;货物名称&lt;/div&gt;&lt;div&gt;型号&lt;/div&gt;&lt;div&gt;规格&lt;/div&gt;&lt;div&gt;数量&lt;/div&gt;&lt;div&gt;单位&lt;/div&gt;&lt;div&gt;重量&lt;/div&gt;&lt;div&gt;公差&lt;/div&gt;&lt;div&gt;质量标准&lt;/div&gt;&lt;div&gt;技术参数&lt;/div&gt;&lt;div&gt;样品&lt;/div&gt;&lt;div&gt;图纸&lt;/div&gt;&lt;div&gt;设计文件&lt;/div&gt;&lt;div&gt;包装方式&lt;/div&gt;&lt;div&gt;标签&lt;/div&gt;&lt;div&gt;唛头&lt;/div&gt;&lt;div&gt;批次号&lt;/div&gt;&lt;div&gt;序列号&lt;/div&gt;&lt;div&gt;危险品属性&lt;/div&gt;&lt;div&gt;是否需要特殊储运条件&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="379" x="1071" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-83" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-85" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-80" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="技术标准与合规标准" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-82" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;国家标准&lt;/div&gt;&lt;div&gt;行业标准&lt;/div&gt;&lt;div&gt;国际标准&lt;/div&gt;&lt;div&gt;客户专用技术规范&lt;/div&gt;&lt;div&gt;测试标准&lt;/div&gt;&lt;div&gt;检验规范&lt;/div&gt;&lt;div&gt;认证要求&lt;/div&gt;&lt;div&gt;进口国强制标准&lt;/div&gt;&lt;div&gt;产品安全标准&lt;/div&gt;&lt;div&gt;环保标准&lt;/div&gt;&lt;div&gt;RoHS / REACH / CE / FCC / UKCA 等认证&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="300" x="1080" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-87" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-86" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-89" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-88" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-84" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="价格、币种、税费与费用承担" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-86" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;单价&lt;/div&gt;&lt;div&gt;总价&lt;/div&gt;&lt;div&gt;币种&lt;/div&gt;&lt;div&gt;计价单位&lt;/div&gt;&lt;div&gt;是否含税&lt;/div&gt;&lt;div&gt;关税&lt;/div&gt;&lt;div&gt;进口增值税&lt;/div&gt;&lt;div&gt;出口税&lt;/div&gt;&lt;div&gt;银行手续费&lt;/div&gt;&lt;div&gt;中转行费用&lt;/div&gt;&lt;div&gt;信用证费用&lt;/div&gt;&lt;div&gt;运费&lt;/div&gt;&lt;div&gt;保险费&lt;/div&gt;&lt;div&gt;装卸费&lt;/div&gt;&lt;div&gt;仓储费&lt;/div&gt;&lt;div&gt;滞港费&lt;/div&gt;&lt;div&gt;滞箱费&lt;/div&gt;&lt;div&gt;价格调整机制&lt;/div&gt;&lt;div&gt;汇率风险&lt;/div&gt;" vertex="1">
+          <mxGeometry height="350" width="200" x="1141" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-91" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-90" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-93" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-88" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;meta charset=&quot;utf-8&quot;&gt;付款条款" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-90" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;付款方式&lt;/div&gt;&lt;div&gt;预付款比例&lt;/div&gt;&lt;div&gt;尾款条件&lt;/div&gt;&lt;div&gt;付款节点&lt;/div&gt;&lt;div&gt;付款期限&lt;/div&gt;&lt;div&gt;付款账户&lt;/div&gt;&lt;div&gt;信用证&lt;/div&gt;&lt;div&gt;托收&lt;/div&gt;&lt;div&gt;见单付款&lt;/div&gt;&lt;div&gt;验收后付款&lt;/div&gt;&lt;div&gt;迟延付款利息&lt;/div&gt;&lt;div&gt;付款所需单据&lt;/div&gt;&lt;div&gt;外汇或银行审批手续&lt;/div&gt;&lt;div&gt;付款失败责任&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="150" x="1155" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-95" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-94" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-97" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-96" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-92" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="交付、运输与装运安排" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-94" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;交付地点&lt;/div&gt;&lt;div&gt;交付日期&lt;/div&gt;&lt;div&gt;交付期间&lt;/div&gt;&lt;div&gt;分批交付&lt;/div&gt;&lt;div&gt;提前交付&lt;/div&gt;&lt;div&gt;超量交付&lt;/div&gt;&lt;div&gt;短交&lt;/div&gt;&lt;div&gt;装运港&lt;/div&gt;&lt;div&gt;目的港&lt;/div&gt;&lt;div&gt;目的地&lt;/div&gt;&lt;div&gt;承运人&lt;/div&gt;&lt;div&gt;运输方式&lt;/div&gt;&lt;div&gt;运输路线&lt;/div&gt;&lt;div&gt;装运通知&lt;/div&gt;&lt;div&gt;到货通知&lt;/div&gt;&lt;div&gt;运输合同由谁订立&lt;/div&gt;&lt;div&gt;运输费用由谁承担&lt;/div&gt;&lt;div&gt;货物是否需要识别至合同&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="180" x="1125" y="1890" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-99" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-98" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-101" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-100" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-96" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Incoterms 与贸易术语" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-98" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;是否使用 Incoterms&lt;/div&gt;&lt;div&gt;贸易术语：EXW / FCA / FOB / CFR / CIF / CPT / CIP / DAP / DPU / DDP 等&lt;/div&gt;&lt;div&gt;Incoterms 版本&lt;/div&gt;&lt;div&gt;named place / named port&lt;/div&gt;&lt;div&gt;出口清关责任&lt;/div&gt;&lt;div&gt;进口清关责任&lt;/div&gt;&lt;div&gt;费用承担&lt;/div&gt;&lt;div&gt;风险转移&lt;/div&gt;&lt;div&gt;保险义务&lt;/div&gt;&lt;div&gt;是否与合同正文冲突&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="220" x="1080" y="2220" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-103" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-102" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-105" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-104" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-100" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="风险转移" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-102" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;风险转移时间&lt;/div&gt;&lt;div&gt;风险转移地点&lt;/div&gt;&lt;div&gt;风险转移条件&lt;/div&gt;&lt;div&gt;货物灭失损坏后的付款义务&lt;/div&gt;&lt;div&gt;货物是否已经识别至合同&lt;/div&gt;&lt;div&gt;运输途中货物风险&lt;/div&gt;&lt;div&gt;卖方保留单据是否影响风险转移&lt;/div&gt;&lt;div&gt;风险转移与验收是否冲突&lt;/div&gt;&lt;div&gt;风险转移与所有权转移是否冲突&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="230" x="1080" y="2570" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-107" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-106" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-109" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-108" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-104" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="所有权转移与所有权保留" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="2930" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-106" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;所有权转移时间&lt;/div&gt;&lt;div&gt;所有权转移条件&lt;/div&gt;&lt;div&gt;是否以付款为条件&lt;/div&gt;&lt;div&gt;是否以交付为条件&lt;/div&gt;&lt;div&gt;是否以验收为条件&lt;/div&gt;&lt;div&gt;所有权保留&lt;/div&gt;&lt;div&gt;买方转售、加工、混合后的所有权处理&lt;/div&gt;&lt;div&gt;第三方扣押、查封、破产时权利处理&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="260" x="1065" y="2860" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-111" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-110" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-113" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-112" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-108" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="单据交付" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="3150" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-110" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;商业发票&lt;/div&gt;&lt;div&gt;装箱单&lt;/div&gt;&lt;div&gt;提单&lt;/div&gt;&lt;div&gt;海运单&lt;/div&gt;&lt;div&gt;空运单&lt;/div&gt;&lt;div&gt;保险单&lt;/div&gt;&lt;div&gt;原产地证&lt;/div&gt;&lt;div&gt;质量证书&lt;/div&gt;&lt;div&gt;检验证书&lt;/div&gt;&lt;div&gt;合格证&lt;/div&gt;&lt;div&gt;报关文件&lt;/div&gt;&lt;div&gt;出口许可证&lt;/div&gt;&lt;div&gt;进口许可证&lt;/div&gt;&lt;div&gt;单据提交时间&lt;/div&gt;&lt;div&gt;单据提交地点&lt;/div&gt;&lt;div&gt;单据形式&lt;/div&gt;&lt;div&gt;单据不符补正&lt;/div&gt;&lt;div&gt;单据与付款条件的关系&lt;/div&gt;" vertex="1">
+          <mxGeometry height="350" width="200" x="1090" y="3070" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-115" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-114" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-117" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-116" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-112" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="检验、验收与不合格通知" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="3460" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-114" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;检验地点&lt;/div&gt;&lt;div&gt;检验时间&lt;/div&gt;&lt;div&gt;检验方法&lt;/div&gt;&lt;div&gt;检验机构&lt;/div&gt;&lt;div&gt;验收标准&lt;/div&gt;&lt;div&gt;外观检验&lt;/div&gt;&lt;div&gt;数量检验&lt;/div&gt;&lt;div&gt;质量检验&lt;/div&gt;&lt;div&gt;功能测试&lt;/div&gt;&lt;div&gt;隐蔽缺陷&lt;/div&gt;&lt;div&gt;不合格通知期限&lt;/div&gt;&lt;div&gt;通知方式&lt;/div&gt;&lt;div&gt;通知内容&lt;/div&gt;&lt;div&gt;拒收条件&lt;/div&gt;&lt;div&gt;复检机制&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="140" x="1110" y="3440" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-119" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-118" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-121" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-120" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-116" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="质量保证" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="3780" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-118" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;保证期&lt;/div&gt;&lt;div&gt;保证范围&lt;/div&gt;&lt;div&gt;保证期起算点&lt;/div&gt;&lt;div&gt;维修&lt;/div&gt;&lt;div&gt;更换&lt;/div&gt;&lt;div&gt;退货&lt;/div&gt;&lt;div&gt;降价&lt;/div&gt;&lt;div&gt;退款&lt;/div&gt;&lt;div&gt;备品备件&lt;/div&gt;&lt;div&gt;现场服务&lt;/div&gt;&lt;div&gt;远程支持&lt;/div&gt;&lt;div&gt;售后响应时间&lt;/div&gt;&lt;div&gt;质量问题费用承担&lt;/div&gt;&lt;div&gt;质保与验收的关系&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="150" x="1100" y="3730" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-123" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-122" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-125" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-124" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-120" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="第三方权利与知识产权" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="4050" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-122" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;第三方权利负担&lt;/div&gt;&lt;div&gt;所有权瑕疵&lt;/div&gt;&lt;div&gt;抵押、质押、留置&lt;/div&gt;&lt;div&gt;知识产权侵权&lt;/div&gt;&lt;div&gt;专利&lt;/div&gt;&lt;div&gt;商标&lt;/div&gt;&lt;div&gt;著作权&lt;/div&gt;&lt;div&gt;商业秘密&lt;/div&gt;&lt;div&gt;技术图纸&lt;/div&gt;&lt;div&gt;买方提供设计资料&lt;/div&gt;&lt;div&gt;第三方索赔通知&lt;/div&gt;&lt;div&gt;知识产权赔偿&lt;/div&gt;&lt;div&gt;使用地或转售地&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="130" x="1111" y="4010" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-127" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-126" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-129" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-128" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-124" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="违约责任" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="4300" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-126" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;卖方违约&lt;/div&gt;&lt;div&gt;买方违约&lt;/div&gt;&lt;div&gt;迟延交付&lt;/div&gt;&lt;div&gt;迟延付款&lt;/div&gt;&lt;div&gt;质量不合格&lt;/div&gt;&lt;div&gt;单据不符&lt;/div&gt;&lt;div&gt;拒收&lt;/div&gt;&lt;div&gt;未收货&lt;/div&gt;&lt;div&gt;未开信用证&lt;/div&gt;&lt;div&gt;根本违约&lt;/div&gt;&lt;div&gt;解除权&lt;/div&gt;&lt;div&gt;继续履行&lt;/div&gt;&lt;div&gt;修理&lt;/div&gt;&lt;div&gt;更换&lt;/div&gt;&lt;div&gt;降价&lt;/div&gt;&lt;div&gt;替代采购&lt;/div&gt;&lt;div&gt;转售&lt;/div&gt;&lt;div&gt;损害赔偿&lt;/div&gt;&lt;div&gt;违约金&lt;/div&gt;&lt;div&gt;责任上限&lt;/div&gt;&lt;div&gt;间接损失排除&lt;/div&gt;&lt;div&gt;利润损失&lt;/div&gt;&lt;div&gt;律师费&lt;/div&gt;&lt;div&gt;催收费&lt;/div&gt;" vertex="1">
+          <mxGeometry height="430" width="210" x="1080" y="4260" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-131" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-130" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-133" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-132" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-128" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="损害赔偿、利息与减损" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="4740" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-130" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;损失范围&lt;/div&gt;&lt;div&gt;利润损失&lt;/div&gt;&lt;div&gt;可预见性&lt;/div&gt;&lt;div&gt;替代采购差价&lt;/div&gt;&lt;div&gt;转售差价&lt;/div&gt;&lt;div&gt;时价差额&lt;/div&gt;&lt;div&gt;逾期付款利息&lt;/div&gt;&lt;div&gt;利率&lt;/div&gt;&lt;div&gt;减损义务&lt;/div&gt;&lt;div&gt;赔偿上限&lt;/div&gt;&lt;div&gt;间接损失排除&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="180" x="1090" y="4710" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-135" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-134" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-137" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-136" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-132" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="不可抗力、免责与履约障碍" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="5010" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-134" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;不可抗力事件&lt;/div&gt;&lt;div&gt;政府禁令&lt;/div&gt;&lt;div&gt;战争&lt;/div&gt;&lt;div&gt;疫情&lt;/div&gt;&lt;div&gt;港口关闭&lt;/div&gt;&lt;div&gt;运输中断&lt;/div&gt;&lt;div&gt;制裁&lt;/div&gt;&lt;div&gt;出口管制&lt;/div&gt;&lt;div&gt;供应商违约&lt;/div&gt;&lt;div&gt;承运人违约&lt;/div&gt;&lt;div&gt;通知义务&lt;/div&gt;&lt;div&gt;证明义务&lt;/div&gt;&lt;div&gt;减损义务&lt;/div&gt;&lt;div&gt;暂停履行&lt;/div&gt;&lt;div&gt;延期履行&lt;/div&gt;&lt;div&gt;解除权&lt;/div&gt;&lt;div&gt;免责范围&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="210" x="1080" y="4920" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-139" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-138" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-141" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-140" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-136" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="合规、出口管制、制裁与海关" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="5280" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-138" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;出口管制&lt;/div&gt;&lt;div&gt;制裁合规&lt;/div&gt;&lt;div&gt;最终用户&lt;/div&gt;&lt;div&gt;最终用途&lt;/div&gt;&lt;div&gt;目的国限制&lt;/div&gt;&lt;div&gt;出口许可证&lt;/div&gt;&lt;div&gt;进口许可证&lt;/div&gt;&lt;div&gt;海关编码&lt;/div&gt;&lt;div&gt;原产地&lt;/div&gt;&lt;div&gt;报关责任&lt;/div&gt;&lt;div&gt;产品认证&lt;/div&gt;&lt;div&gt;反腐败&lt;/div&gt;&lt;div&gt;反洗钱&lt;/div&gt;&lt;div&gt;税务合规&lt;/div&gt;&lt;div&gt;外汇合规&lt;/div&gt;&lt;div&gt;合规解除权&lt;/div&gt;&lt;div&gt;合规赔偿&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="220" x="1080" y="5200" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-143" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-142" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-145" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-144" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-140" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="争议解决" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="5570" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-142" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;法院管辖&lt;/div&gt;&lt;div&gt;仲裁&lt;/div&gt;&lt;div&gt;仲裁机构&lt;/div&gt;&lt;div&gt;仲裁地&lt;/div&gt;&lt;div&gt;仲裁地点&lt;/div&gt;&lt;div&gt;仲裁语言&lt;/div&gt;&lt;div&gt;仲裁员人数&lt;/div&gt;&lt;div&gt;仲裁规则&lt;/div&gt;&lt;div&gt;诉讼法院&lt;/div&gt;&lt;div&gt;是否排他管辖&lt;/div&gt;&lt;div&gt;临时措施&lt;/div&gt;&lt;div&gt;保全&lt;/div&gt;&lt;div&gt;律师费&lt;/div&gt;&lt;div&gt;裁决/判决执行&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="220" x="1080" y="5530" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-147" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-146" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-149" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-148" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-144" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="适用法律" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="5830" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-146" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;governing law&lt;/div&gt;&lt;div&gt;applicable law&lt;/div&gt;&lt;div&gt;是否选择某国法&lt;/div&gt;&lt;div&gt;是否排除 CISG&lt;/div&gt;&lt;div&gt;是否选择 CISG&lt;/div&gt;&lt;div&gt;是否误将 Incoterms / 仲裁规则作为适用法律&lt;/div&gt;&lt;div&gt;是否存在多个适用法律条款&lt;/div&gt;&lt;div&gt;是否与争议解决条款冲突&lt;/div&gt;&lt;div&gt;是否涉及强制性法律&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="220" x="1080" y="5820" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-151" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-150" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-153" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-152" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-148" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="合同变更、转让与通知" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="6140" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-150" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;合同变更方式&lt;/div&gt;&lt;div&gt;是否必须书面&lt;/div&gt;&lt;div&gt;电子邮件是否有效&lt;/div&gt;&lt;div&gt;通知地址&lt;/div&gt;&lt;div&gt;通知方式&lt;/div&gt;&lt;div&gt;通知生效时间&lt;/div&gt;&lt;div&gt;权利义务转让&lt;/div&gt;&lt;div&gt;分包&lt;/div&gt;&lt;div&gt;关联公司履行&lt;/div&gt;&lt;div&gt;不可转让条款&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="170" x="1105" y="6080" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-155" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-154" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-157" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-156" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-152" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="解除后果、返还与货物保全" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="6369" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-154" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div&gt;解除后货款返还&lt;/div&gt;&lt;div&gt;货物返还&lt;/div&gt;&lt;div&gt;利息&lt;/div&gt;&lt;div&gt;收益返还&lt;/div&gt;&lt;div&gt;拒收货物保管&lt;/div&gt;&lt;div&gt;仓储费&lt;/div&gt;&lt;div&gt;保险费&lt;/div&gt;&lt;div&gt;转售权&lt;/div&gt;&lt;div&gt;易腐货物处理&lt;/div&gt;&lt;div&gt;货物滞留处理&lt;/div&gt;&lt;div&gt;争议解决条款是否继续有效&lt;/div&gt;" vertex="1">
+          <mxGeometry height="201" width="200" x="1085" y="6290" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-156" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="其他条款" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="6570" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-158" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;合同审查领域&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="860" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-159" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;知识库构建&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-160" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;合同审查流程图&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="180" x="69" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是否需要做尽职调查？可能需要接入外部平台" vertex="1">
+          <mxGeometry height="30" width="60" x="850" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-162" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="各国进出口管制、制裁知识库" vertex="1">
+          <mxGeometry height="80" width="120" x="249" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-179" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-178" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-180" connectable="0" parent="HwPXas9lrprOphOuYEvM-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非中国法律" vertex="1">
+          <mxGeometry relative="1" x="-0.4178" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-182" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HwPXas9lrprOphOuYEvM-181" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-183" connectable="0" parent="HwPXas9lrprOphOuYEvM-182" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="中国法律" vertex="1">
+          <mxGeometry relative="1" x="-0.2869" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-163" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="具体国别法律适用判断" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="1565" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-192" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="HwPXas9lrprOphOuYEvM-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-193" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HwPXas9lrprOphOuYEvM-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-166" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="中方为买方还是卖方" vertex="1">
+          <mxGeometry height="65" width="119" x="440" y="1705" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-169" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="提示风险" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="1565" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-177" edge="1" parent="1" source="HwPXas9lrprOphOuYEvM-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="HwPXas9lrprOphOuYEvM-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-174" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="提示风险，默认按照中文审查" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-178" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="略" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="1450" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-181" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="进入中国法律审查流程" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="1705" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-184" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="中国民法典数据库" vertex="1">
+          <mxGeometry height="80" width="120" x="414" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-185" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="cisg数据库" vertex="1">
+          <mxGeometry height="80" width="120" x="580" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CISG 主要调整合同成立、买卖双方权利义务、交付、货物相符、检验通知、风险转移、违约救济、损害赔偿、免责、解除后果和货物保全；它明确不处理合同或条款有效性、所有权的物权效果，以及货物致人死亡或人身伤害责任" vertex="1">
+          <mxGeometry height="30" width="280" x="1350" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="买方" vertex="1">
+          <mxGeometry height="60" width="120" x="319" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="HwPXas9lrprOphOuYEvM-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="卖方" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="1840" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
