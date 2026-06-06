@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="yBOqtqays9f9gQaaCiud">
-    <mxGraphModel dx="2313" dy="1980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2313" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,6 +484,257 @@
         </mxCell>
         <mxCell id="HwPXas9lrprOphOuYEvM-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="卖方" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-88" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cisg适用问题" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-3" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;cisg适用判断&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="240" x="1660" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-60" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="input：&lt;div&gt;合同文本（txt）&lt;br&gt;&lt;div&gt;合同类型（select）&lt;/div&gt;&lt;div&gt;卖方营业地（select）&lt;/div&gt;&lt;div&gt;买方营业地（select）&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="2909.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-9" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-10" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="买卖" vertex="1">
+          <mxGeometry relative="1" x="0.125" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-11" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-12" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="运输" vertex="1">
+          <mxGeometry relative="1" x="-0.0031" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-13" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-14" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="其他" vertex="1">
+          <mxGeometry relative="1" x="0.0344" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="是买卖合同还是运输合同？" vertex="1">
+          <mxGeometry height="60" width="120" x="2919" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-62" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-19" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="文本提取器" vertex="1">
+          <mxGeometry height="60" width="120" x="2919" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-20" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="运输合同流程" vertex="1">
+          <mxGeometry height="60" width="120" x="2719" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="其他合同流程" vertex="1">
+          <mxGeometry height="60" width="120" x="3119" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-28" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-29" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="中文" vertex="1">
+          <mxGeometry relative="1" x="-0.2103" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-30" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-41" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-31" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="英文" vertex="1">
+          <mxGeometry relative="1" x="0.1991" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-32" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-53" value="双语但未约定作准语言">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="作准语言判断&lt;div&gt;非作准语言翻译风险提示&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2919" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-34" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-35" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不适用或约定排除cisg" vertex="1">
+          <mxGeometry relative="1" x="-0.1806" y="8" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-36" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-37" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="适用cisg、cisg不覆盖部分适用中国法律" vertex="1">
+          <mxGeometry relative="1" x="-0.0278" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-38" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-39" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不能直接适用cisg&lt;div&gt;并未约定适用法律&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0139" y="-1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-40" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="cisg适用判断" vertex="1">
+          <mxGeometry height="60" width="120" x="2919" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-41" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="英文审查流程（和中文相同，暂时不做）" vertex="1">
+          <mxGeometry height="60" width="120" x="2719" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-42" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;合同审查简易流程图2026/6/6版本&lt;/h1&gt;&lt;div&gt;仅包含国内法以及cisg审查流程&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="251" x="2549" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-43" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-44" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="非中国法律" vertex="1">
+          <mxGeometry relative="1" x="-0.4178" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-45" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-55" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-46" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="中国法律" vertex="1">
+          <mxGeometry relative="1" x="-0.2869" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-47" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="具体国别法律适用判断" vertex="1">
+          <mxGeometry height="60" width="120" x="2660" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-48" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-49" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-50" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="中方为买方还是卖方" vertex="1">
+          <mxGeometry height="65" width="119" x="2920" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-51" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="提示风险" vertex="1">
+          <mxGeometry height="60" width="120" x="3160" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-52" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-53" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="提示风险，默认按照中文审查" vertex="1">
+          <mxGeometry height="60" width="120" x="3170" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-54" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="提示该适用法律判断，并说明现在无法审查" vertex="1">
+          <mxGeometry height="60" width="120" x="2500" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-55" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="进入中国法律审查流程" vertex="1">
+          <mxGeometry height="60" width="120" x="2660" y="815" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="买方" vertex="1">
+          <mxGeometry height="60" width="120" x="2799" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="卖方" vertex="1">
+          <mxGeometry height="60" width="120" x="3030" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-122" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-123" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-122" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.0806" y="6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-63" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="是否属于公约排除的国际货物销售合同" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-89" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-121" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="0.04" y="4" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-130" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-129" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-131" connectable="0" parent="yqBVtOdtXh5rN3oC0Tb1-130" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.2389" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-66" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="买卖双方营业地是否在不同国家并且属于缔约国" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-107" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-103" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-72" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="判断合同是否约定排除 CISG" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;概言之，公约从四个方面限定了它的适用范围：&lt;/div&gt;&lt;div&gt;（1）公约适用于国际货&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;物销售合同（第 1 条）；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（2）公约仅适用于商业性国际货物销售合同（第 2&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;条）；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;（3）公约不适用于某些国际货物销售合同，包括某些特殊性交易（第 3&lt;/span&gt;&lt;/div&gt;&lt;div&gt;条）和交易中的某些特殊法律问题（第 4 、5 条）；&lt;/div&gt;&lt;div&gt;（4）当事人可以通过合同自&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;由地排除适用公约或者改变公约某些条款的效力（第 6 条）。&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="430" x="2040" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-100" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="已经根据用户输入判断为货物销售合同" vertex="1">
+          <mxGeometry height="30" width="292" x="2080" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-124" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-87" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="合同的国际性判定" vertex="1">
+          <mxGeometry height="30" width="90" x="1800" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-98" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-95" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;第2条&lt;/div&gt;&lt;div&gt;本公约不适用于以下的销售：&lt;/div&gt;&lt;div&gt;(a) 购供私人、家人或家庭使用的货物的销售，除非卖方在订立合同前&lt;/div&gt;&lt;div&gt;任何时候或订立合同时不知道而且没有理由知道这些货物是购供任何这种&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;使用；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(b) 经由拍卖的销售；&lt;/div&gt;&lt;div&gt;( c) 根据法律执行令状或其他令状的销售；&lt;/div&gt;&lt;div&gt;(d) 公债、股票、投资证券、流通票据或货币的销售&lt;/div&gt;&lt;div&gt;&lt;div&gt;（ e）船舶、船只、气垫船或飞机的销售；&lt;/div&gt;&lt;div&gt;（f）电力的销售。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;第3条&lt;/div&gt;&lt;div&gt;（1）供应尚待制造或生产的货物的合同应视为销售合同，除非订购货物&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;的当事人保证供应这种制造或生产所需的大部分重要材料。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;（2）本公约不适用于供应货物一方的绝大部分义务在于供应劳力或其&lt;span style=&quot;background-color: transparent;&quot;&gt;它服务的合同。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="390" x="2068" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-109" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-101" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;第 4 条&lt;/div&gt;&lt;div&gt;(公约不适用的法律问题)&lt;/div&gt;&lt;div&gt;本公约只适用于销售合同的订立和卖方和买方因此种合同而产生的权&lt;/div&gt;&lt;div&gt;利和义务。特别是，本公约除非另有明文规定，与以下事项无关：&lt;/div&gt;&lt;div&gt;( a) 合同的效力，或其任何条款的效力，或任何惯例的效力；&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;( b) 合同对所售货物所有权可能产生的影响。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;div&gt;第5 条&lt;/div&gt;&lt;div&gt;本公约不适用于卖方对于货物对任何人所造成的死亡或伤害的责任。&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(1)关于销售合同及合同权利义务转让问题、应收账款转让问题。&lt;/div&gt;&lt;div&gt;(2)代理问题，如由第三方代表当事人订立的合同是否有效、合同当事&lt;/div&gt;&lt;div&gt;人对其雇员行为、代理人行为的责任、代理人与本人关系。&lt;/div&gt;&lt;div&gt;(3 )所出售货物存在担保权益的有效性,如卖方与第三方哪一方对货物&lt;/div&gt;&lt;div&gt;有优先权。&lt;/div&gt;&lt;div&gt;(4)诉讼时效问题。&lt;/div&gt;&lt;div&gt;(5)定金、违约金问题。&lt;/div&gt;&lt;div&gt;(6)判例显示，公约不涉及标准合同条款、法院选择条款、惩罚性条款、&lt;/div&gt;&lt;div&gt;和解协议的效力。&lt;/div&gt;&lt;div&gt;(7)合同对第三方的效力以及一方当事人是否负连带责任问题。&lt;/div&gt;&lt;div&gt;(8)所支付的货币问题。&lt;/div&gt;&lt;div&gt;(9)缔约过失。（cisg评述李巍）&lt;/div&gt;&lt;div&gt;建议适用PICC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="315" width="390" x="2080" y="1315" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-103" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="是否排除适用cisg的部分条约" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="975" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-105" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="判断合同是否存在判断 CISG 不调整的问题" vertex="1">
+          <mxGeometry height="60" width="120" x="1820" y="1442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-126" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-127" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-110" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;第 6 条&lt;/div&gt;&lt;div&gt;（当事人订约自由）&lt;/div&gt;&lt;div&gt;双方当事人可以不适用本公约,或在第 12 条的条件下，减损本公约的任&lt;/div&gt;&lt;div&gt;何规定或改变其效力。&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="240" x="1680" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-115" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="yqBVtOdtXh5rN3oC0Tb1-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" value="排除分为明示和默示排除，此处仅适用明示排除。（默示排除是否适用需要进一步研究，这个版本先只适用明示排除）&lt;span style=&quot;background-color: transparent;&quot;&gt;一是在明确排除公约的同时指明合同应适用的&lt;/span&gt;&lt;div&gt;法律;另一种是没有指明应适用的法律。比如规定：&lt;/div&gt;&lt;div&gt;&quot;本合同规定的当事人的权利和义务将不受《联合国国际货物销售合同&lt;/div&gt;&lt;div&gt;公约》调整。&quot;( The rights and obligations of the parties under this contract shall&lt;/div&gt;&lt;div&gt;not be governed by the CISG. )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="165" width="330" x="2098" y="582.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-120" edge="1" parent="1" source="yqBVtOdtXh5rN3oC0Tb1-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yqBVtOdtXh5rN3oC0Tb1-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-119" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="cisg缔约国表" vertex="1">
+          <mxGeometry height="80" width="120" x="2120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yqBVtOdtXh5rN3oC0Tb1-129" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="不适用" vertex="1">
+          <mxGeometry height="60" width="120" x="1700" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
